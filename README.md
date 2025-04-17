@@ -26,7 +26,7 @@ This software is provided **100% free** and is intended for **non-commercial per
 For any feedback, bug reports, or suggestions, please feel free to contact the author (still be a student,please be understand might cannot reply on-time) at: jiawen.li12@student.unsw.edu.au
 
 ## Personal Profile
-<img src="Spike8086.png" width="500" height="500">
+<img src="Spike8086.png" width="400" height="400">
 
 Google Scholar: https://scholar.google.com/citations?user=3AHRFwEAAAAJ&hl=en
 
