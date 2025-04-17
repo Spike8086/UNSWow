@@ -1,7 +1,7 @@
 # UNSWow - Your Personal Growth Tracker for UNSW Students
 
 [![Awesome Badge](https://img.shields.io/badge/Awesome-UNSWow-brightgreen.svg)](https://github.com/your-github-username/your-repo-name)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Wowww! UNSWow is an **unofficial** offline application crafted with care for students of the University of New South Wales (UNSW), but its benefits extend to anyone seeking to track and improve their daily habits and productivity.
 
 UNSWow is designed to help you monitor your personal behaviors and actions, providing insightful feedback and motivation to enhance your daily routines. Don't let the single-script nature fool you – it's built to be robust and functional! 
