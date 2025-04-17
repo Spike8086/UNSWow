@@ -19,7 +19,7 @@ UNSWow is designed to help you monitor your personal behaviors and actions, prov
 
 ## Important Notes(how to use it)
 The applications still not get packed, please run python file **operations.py** for use.
-This software is provided **100% free** and is intended for **non-commercial personal use only.** Any commercial exploitation is strictly prohibited.
+This software is provided **100% free** and is intended for **non-commercial personal use only.** Any commercial exploitation is strictly prohibited,or at least encourage to do so.
 When you first open the application, it has 3 samples for ensure could have brief overview for user, if user wanna get rid of sample data that for illustrations, they could simply (Get into the Menu->Click Search Record option->Click "Remove Last Row", do it in three times.)
 
 ## Feedback & Issues
