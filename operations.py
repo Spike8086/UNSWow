@@ -458,30 +458,6 @@ def show_filtered_records(data, tree, year, month, day):
                     values=(row['hour'], row['minute'], row['WH (Hours)'], row['SH (Hours)'],
                             row['EH (Hours)'], row['HS (Total)'], row['CT (0-100)'], row['Final Score']))
 
-
-def show_filtered_records(data, tree, year, month, day):
-    # 构造布尔掩码
-    condition = pd.Series([True] * len(data))
-    if year != "None":
-        condition &= data['year'] == int(year)
-    if month != "None":
-        condition &= data['month'] == int(month)
-    if day != "None":
-        condition &= data['day'] == int(day)
-
-    filtered_data = data[condition]
-
-    if filtered_data.empty:
-        show_message("No records match the selected criteria.")
-        return
-
-    # 清空树形视图并插入结果
-    tree.delete(*tree.get_children())
-    for index, row in filtered_data.iterrows():
-        tree.insert('', 'end',
-                    values=(row['hour'], row['minute'], row['WH (Hours)'], row['SH (Hours)'],
-                            row['EH (Hours)'], row['HS (Total)'], row['CT (0-100)'], row['Final Score']))
-
 # ----------------------- 查看成绩的子界面 ----------------------- #
 def show_scores(data):
     input_window = tk.Toplevel(root)
