@@ -1,0 +1,4 @@
+year,month,day,hour,minute,WH (Hours),SH (Hours),EH (Hours),HS: Shower(+60),HS: Toothbrush(+20),HS: Tidy Room(+5),HS: Laundry(+10),HS: Late Night(-50),HS: Junk Food(-30),HS (Total),CT (0-100),Final Score
+2025,4,14,11,11,2.76,2.08,0.716,F,T,T,F,T,F,0,57.3,45.89
+2025,4,15,23,10,0.5,2.1,61.6,T,F,F,F,F,F,60,63.0,55.05
+2025,4,16,1,27,2.03,1.76,0.78,F,T,T,F,T,F,0,62.0,44.39
