@@ -20,14 +20,13 @@ UNSWow is designed to help you monitor your personal behaviors and actions, prov
 ## Important Notes(how to use it)
 
 The application  **for Windows User** still not get packed, please run python file **operations.py** for use.
-This software is provided **100% free** and is intended for **non-commercial personal use only.** Any commercial exploitation is strictly prohibited,or at least encourage to do so.(I am not completely not open to that,you could see this point on license type)
-
  **For Mac user**, now whole applcation is avaliable, you could download via:
 [Download UNSWow v1.0.7 for macOS (zip)](https://github.com/Spike8086/UNSWow/releases/download/v1.0.7-mac/UNSW.v1.0.7.app.zip)
 
-When you first open the application, it has 3 samples for ensure could have brief overview for user, if user wanna get rid of sample data that for illustrations, they could simply (Get into the Menu->Click Search Record option->Click "Remove Last Row", do it in three times.)
+When you first open the application, it has 3 samples for ensure could have brief overview for user, if user wanna get rid of sample data that for illustrations, they could simply (Get into the Menu->Click Search Record option->Click "Remove Last Row", do it in four times.)
 
 ## Feedback & Issues
+This software is provided **100% free** and is intended for **non-commercial personal use only.** Any commercial exploitation is strictly prohibited,or at least encourage to do so.(I am not completely not open to that,you could see this point on license type)
 
 For any feedback, bug reports, or suggestions, please feel free to contact the author (still be a student,please be understand might cannot reply on-time) at: jiawen.li12@student.unsw.edu.au
 
