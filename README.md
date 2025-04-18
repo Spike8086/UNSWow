@@ -17,6 +17,13 @@ UNSWow is designed to help you monitor your personal behaviors and actions, prov
 * **Visual Progress & Motivation:** Track your progress through insightful charts and stay inspired with randomly displayed motivational quotes.
 * **Efficient Record Filtering & Detailed Evaluations:** Easily search through your records based on date and receive vivid evaluations of your daily performance.
 
+## New Update V1.0.7: UNSWow-Mac
+* The UNSWow application package is available for Mac now!!
+  
+* Add a recovery function to recover data from the backup
+  
+* More Robust!!!! Better-fitted UI!
+
 ## Important Notes(how to use it)
 
 The application  **for Windows User** still not get packed, please download the whole pakage
